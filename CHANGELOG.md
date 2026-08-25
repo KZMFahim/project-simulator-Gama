@@ -54,3 +54,6 @@
 
 ## Version 1.15 
 - Added rename student name field to Student structure.
+
+## Version 1.1 
+- Added improve README field to Student structure.
