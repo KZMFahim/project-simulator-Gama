@@ -10,3 +10,6 @@
 
 ## Version 1.4
 - Added age field to Student structure.
+
+## Version 1.5
+- Added phone field to Student structure.
