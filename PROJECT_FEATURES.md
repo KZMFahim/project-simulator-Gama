@@ -1,5 +1,6 @@
 # Implemented Features
 ## Student Age
+##Student cgpa
 ## Student cgpa
 ## Student Department
 ## Student Email
@@ -10,4 +11,7 @@
 ## Student CreditHours
 ## Student Status
 ## Student Name
+## Student Address
+
+## Student Email
 

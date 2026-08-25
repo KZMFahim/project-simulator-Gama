@@ -12,5 +12,7 @@ int semester;
 int creditHours;
 char status[20];
 char name[50];
+char address[100];
+char address[200];
 char name[100];
 };
