@@ -7,4 +7,5 @@
 ## Student Address
 ## Student Gender
 ## Student Semester
+## Student CreditHours
 
