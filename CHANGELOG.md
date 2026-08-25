@@ -5,10 +5,21 @@
 ## Version 1.2
 - Added cgpa field to Student structure.
 
+## Version 1.1 
+## Version 1.3
+- Added department field to Student structure. 
+
+## Version 1.4
+- Added mail field to Student structure. 
 ## Version 1.3 
 - Added department field to Student structure. 
 
 ## Version 1.4
+## Version 1.3 
+- Added department field to Student structure. 
+
+## Version 1.4
+
 - Added age field to Student structure.
 
 ## Version 1.5
@@ -32,4 +43,5 @@
 ## Version 1.11
 - Added name field to Student structure.
 
-
+## Version 1.12 
+- Added address field to Student structure. 
