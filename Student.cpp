@@ -19,4 +19,6 @@ char phone[20];
 char phone[25]; 
 int id; 
 int studentId; 
+char name[100]; 
+char studentName[100]; 
 };
