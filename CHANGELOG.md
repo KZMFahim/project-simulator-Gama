@@ -29,4 +29,7 @@
 ## Version 1.10
 - Added status field to Student structure.
 
+## Version 1.11
+- Added name field to Student structure.
+
 
