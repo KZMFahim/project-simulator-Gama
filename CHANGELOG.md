@@ -4,3 +4,6 @@
 
 ## Version 1.2
 - Added cgpa field to Student structure.
+
+## Version 1.1 
+- Added department field to Student structure. 
