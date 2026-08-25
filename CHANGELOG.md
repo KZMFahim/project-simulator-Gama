@@ -26,3 +26,7 @@
 ## Version 1.9
 - Added creditHours field to Student structure.
 
+## Version 1.10
+- Added status field to Student structure.
+
+
