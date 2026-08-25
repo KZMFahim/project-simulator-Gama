@@ -6,4 +6,5 @@
 ## Student Phone
 ## Student Address
 ## Student Gender
+## Student Semester
 

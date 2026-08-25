@@ -19,3 +19,7 @@
 
 ## Version 1.7
 - Added gender field to Student structure.
+
+## Version 1.8
+- Added semester field to Student structure.
+
