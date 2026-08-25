@@ -11,4 +11,5 @@ char gender[10];
 int semester;
 int creditHours;
 char status[20];
+char name[50];
 };
