@@ -13,3 +13,6 @@
 
 ## Version 1.5
 - Added phone field to Student structure.
+
+## Version 1.6
+- Added phone field to Student structure.
