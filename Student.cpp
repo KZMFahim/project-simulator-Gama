@@ -17,4 +17,6 @@ char address[100];
 char address[200];
 char phone[20]; 
 char phone[25]; 
+int id; 
+int studentId; 
 };
